@@ -1,0 +1,24 @@
+{
+  "name": "algedonic-transit",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/aljedaxi/algedonic-transit#readme",
+  "bugs": {
+    "url": "https://github.com/aljedaxi/algedonic-transit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aljedaxi/algedonic-transit.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@js-temporal/polyfill": "^0.5.1",
+    "gtfs-realtime-bindings": "^1.1.1"
+  }
+}
